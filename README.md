@@ -18,13 +18,9 @@ Edit and update student information
 
 Delete student records if needed
 
-⚙️ Tech Stack
-Layer	        Technology
-Backend	      Java, Spring Boot
-Frontend    	Thymeleaf, HTML/CSS
-Database     	MySQL
-Build Tool   	Maven
-Email Service	JavaMailSender (SMTP)
+⚙️ Tech Stack:
+
+Java, Spring Boot, Thymeleaf, HTML/CSS, MySQL, Maven, JavaMailSender (SMTP)
 
 Clone the Repository:
 
