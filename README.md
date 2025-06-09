@@ -19,31 +19,13 @@ Edit and update student information
 Delete student records if needed
 
 ⚙️ Tech Stack
-Layer	Technology
-Backend	Java, Spring Boot
-Frontend	Thymeleaf, HTML/CSS
-Database	MySQL
-Build Tool	Maven
+Layer	        Technology
+Backend	      Java, Spring Boot
+Frontend    	Thymeleaf, HTML/CSS
+Database     	MySQL
+Build Tool   	Maven
 Email Service	JavaMailSender (SMTP)
 
-📂 Project Structure
-
-student-admin-portal/
-├── src/
-│   ├── main/
-│   │   ├── java/com/example/demo/
-│   │   │   ├── controller/
-│   │   │   ├── model/
-│   │   │   ├── repository/
-│   │   │   ├── service/
-│   │   │   └── DemoApplication.java
-│   │   └── resources/
-│   │       ├── templates/ (Thymeleaf HTML files)
-│   │       ├── static/ (CSS, JS)
-│   │       └── application.properties
-├── pom.xml
-└── README.md
-🏃‍♂️ How to Run the Project
 Clone the Repository:
 
 git clone https://github.com/SumanTulukkanam/student-admin-portal.git
